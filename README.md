@@ -1,5 +1,5 @@
 # way-to-multiply
 
-##Index
+## Index
+- Ethiopian multiplication
 
--Ethiopian Multiplication
